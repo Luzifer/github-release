@@ -1,3 +1,5 @@
+github.com/Luzifer/github-release/github v0.0.0-20200430112416-e4a50332ac8b h1:9GwbMJn188mUpTGlueFJGTebPPpWiFUoMNLoHcVOP64=
+github.com/Luzifer/github-release/github v0.0.0-20200430112416-e4a50332ac8b/go.mod h1:sssTxcOnMWzj995f+Izf1AigaHijpO2soyWkCK+kIyo=
 github.com/dustin/go-humanize v1.0.0 h1:VSnTsYCnlFHaM2/igO1h6X3HA71jcobQuxemgkq4zYo=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
 github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 h1:nrZ3ySNYwJbSpD6ce9duiP+QkD3JuLCcWkdaehUS/3Y=
